@@ -3,7 +3,7 @@
 # KCL Mailman Downloader #
 |________________________|
 
-This program works in x steps
+This program works in 4 steps
 1) Double click Mailman_Downloader.exe, you should get a friendly message asking you to give the name of the mailing list. 
 
 	For example if you wanted everybody on imsci@kcl.ac.uk, you would input 'imsci' (without the quote marks)
